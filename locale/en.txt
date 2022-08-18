@@ -1,0 +1,82 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Terrace Resorts
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA.label = Terrace
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_0.label = DJI_0028
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_1.label = DJI_0044
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_2.label = DJI_0048
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_3.label = DJI_0073
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_4.label = DJI_0125
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_5.label = DJI_0134
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_6.label = IMG_9650
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_7.label = IMG_9660
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_8.label = IMG_9663
+album_C416FDF5_CFF5_BF89_41E8_9A46EEAB03FA_9.label = IMG_9686
+panorama_A84208C8_A212_AB3C_41D5_F879BD6CFC2E.label = Deluxe Villas
+panorama_A8421290_A212_FF2C_41D1_EE81C9918B37.label = Balcony - Deluxe Villas
+panorama_A842159B_A212_E55C_41E3_EB09BE613F90.label = Deluxe Villas
+panorama_A8421A02_A213_AF2C_41E1_5E68E870455E.label = Super Deluxe Villa
+panorama_A8421C21_A213_EB6C_41D3_F1E8DAA2AE5B.label = Lakeside
+panorama_A84227C9_A213_653C_41BB_521B2FD77971.label = Deluxe Villa
+panorama_A8423387_A213_5D34_41DD_9625ABB5AA9E.label = Super Deluxe Villa
+panorama_A8423DD4_A213_64D4_41E4_25F263B115E6.label = Washroom - Super Deluxe Villa
+panorama_A84244BC_A213_5B54_41BF_A4B9230960BD.label = Deluxe Villa
+panorama_A842506B_A213_7BFC_41CF_CA8420B9ABCE.label = Balcony - Super Deluxe Villa
+panorama_A84267E5_A213_64F4_41C7_2F2ED857387A.label = Deluxe Villa
+panorama_A84271A1_A213_BD6C_41CC_B563AB2A09CB.label = Balcony - Deluxe Villa
+panorama_A8427AA8_A212_AF7C_41E0_2ED71B1EC1B5.label = Deluxe Villas
+panorama_A842BF6C_A213_A5F4_41E0_549B172E0CD4.label = Washroom - Deluxe Villa
+panorama_A842D6C2_A213_A72C_41CC_887889A33510.label = Super Deluxe Villa
+panorama_A842DBD1_A213_ED2C_41DF_EB41953198BD.label = Super Deluxe Villa
+panorama_A8439187_A212_FD34_41E1_2E7C5B605142.label = Restaurant
+panorama_A843CF46_A212_E534_41E3_1AA4B23D303D.label = Restaurant
+panorama_A843DA4B_A212_AF3C_41D6_D77D716A200E.label = Reception and Lobby
+panorama_A843DCCE_A212_AB34_41CA_3E4EBA2901D4.label = Reception and Lobby
+panorama_A845F07F_A212_DBD4_41A0_86D1D355DE96.label = Facade
+panorama_A846E38B_A212_DD33_41D6_6D8B0DD742B9.label = Restaurant
+panorama_A9562596_A212_A554_41D4_F4AD0B87F847.label = Conference Hall
+photo_DBEBD0CC_D00B_E59F_41C2_9803495DBC88.label = IMG_9701
+photo_DBEBD0CC_D00B_E59F_41C2_9803495DBC88.label = IMG_9701
+photo_DCD34B6E_D00B_A49B_41E4_7F7101760220.label = IMG_9682
+photo_DCD34B6E_D00B_A49B_41E4_7F7101760220.label = IMG_9682
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_AC99880C_A231_AB34_41D3_BDB45D553104.toolTip = Reception
+HotspotPanoramaOverlayArea_ADC80EC9_A23E_A73C_41E1_EA5DF4D2F86F.toolTip = Conference Hall
+HotspotPanoramaOverlayArea_B042A4DF_A272_A4D4_41E1_485BA0E83C8A.toolTip = Villas
+HotspotPanoramaOverlayArea_B2CFD64C_A211_6734_41CD_70F45F51E4EA.toolTip = Villas
+HotspotPanoramaOverlayArea_B3BC16D9_A217_64DC_41D6_7F324702C026.toolTip = Reception
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://terraceresorts.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://terraceresorts.com
